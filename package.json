@@ -1,6 +1,6 @@
 {
   "name": "vue-admin3",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Data-Driven Admin Framework for Vue3.",
   "main": "index.js",
   "scripts": {
