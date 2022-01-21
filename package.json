@@ -1,0 +1,24 @@
+{
+  "name": "vue3admin",
+  "version": "0.0.1",
+  "description": "A Data-Driven Admin Framework for Vue3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easecloud/vue3admin.git"
+  },
+  "keywords": [
+    "admin",
+    "vue3",
+    "data-driven"
+  ],
+  "author": "fish-ball",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/easecloud/vue3admin/issues"
+  },
+  "homepage": "https://github.com/easecloud/vue3admin#readme"
+}
