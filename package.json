@@ -1,6 +1,6 @@
 {
   "name": "vue-admin3",
-  "version": "0.0.2",
+  "version": "0.0.1.1",
   "description": "A Data-Driven Admin Framework for Vue3.",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "author": "fish-ball",
   "license": "AGPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/easecloud/vue3admin/issues"
+    "url": "https://github.com/easecloud/vue-admin3/issues"
   },
-  "homepage": "https://github.com/easecloud/vue3admin#readme"
+  "homepage": "https://github.com/easecloud/vue-admin3#readme"
 }
