@@ -1,5 +1,5 @@
 {
-  "name": "vue3admin",
+  "name": "vue-admin3",
   "version": "0.0.1",
   "description": "A Data-Driven Admin Framework for Vue3.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/easecloud/vue3admin.git"
+    "url": "git+https://github.com/easecloud/vue-admin3.git"
   },
   "keywords": [
     "admin",
